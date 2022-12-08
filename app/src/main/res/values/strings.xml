@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sorteado</string>
+    <string name="deseja_sortear_at_que_n_mero">Deseja sortear até que número</string>
+    <string name="resetar">resetar</string>
+    <string name="sortear">sortear</string>
+    <string name="nenhum_n_mero_selecionado">Nenhum número selecionado</string>
+</resources>
