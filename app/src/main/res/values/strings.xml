@@ -4,4 +4,5 @@
     <string name="resetar">resetar</string>
     <string name="sortear">sortear</string>
     <string name="nenhum_n_mero_selecionado">Nenhum número selecionado</string>
+    <string name="digite_um_n_mero">Digite um número</string>
 </resources>
